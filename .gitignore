@@ -1,0 +1,6 @@
+testvideo/*.mp4
+testvideo/testvideo.zip
+result/*.avi
+result/result.zip
+detect_wrapper/weights/weights.zip
+detect_wrapper/weights/best.pt
