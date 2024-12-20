@@ -4,3 +4,5 @@ result/*.avi
 result/result.zip
 detect_wrapper/weights/weights.zip
 detect_wrapper/weights/best.pt
+__pycache__/
+log.txt

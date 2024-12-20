@@ -26,7 +26,7 @@ unzip detect_wrapper/weights/weights.zip -d detect_wrapper
 ```
 运行
 ```sh
-python demo_detect_track.py
+python3 demo_detect_track.py
 ```
 project_uav环境主要包括：
 pytorch(1.7.1)、torchvision(0.8.2)、Cython、tqdm、PyYAML、matplotlib、numpy、Pillow、opencv、scipy
